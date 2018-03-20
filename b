@@ -1,5 +1,5 @@
 #!/bin/sh
 
-clang++ -std=c++1y main.cpp
+clang++ -g -std=c++1y main.cpp
 
 
