@@ -1,0 +1,9 @@
+#!/bin/sh
+
+./b || exit
+
+./a.out < test/test1
+./a.out < test/test2
+./a.out < test/test3
+./a.out < test/test4
+
